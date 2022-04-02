@@ -1,0 +1,22 @@
+{
+  "name": "multi-export-vuejs-single-file-ui-components",
+  "version": "1.0.0",
+  "description": "Nuxt starter for CodeSandBox",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "classnames": "2.2.6",
+    "node-sass": "4.11.0",
+    "nuxt": "^2.4.0",
+    "sass-loader": "7.1.0"
+  },
+  "keywords": []
+}
